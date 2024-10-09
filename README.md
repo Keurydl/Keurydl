@@ -1,86 +1,122 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-<header>
-        <h1>#Hi👋,I'M Keury David Deschamps Lopez</h1>
-        <nav>
-            <ul>
-                <li><a href="#about"><button class="btn">Sobre Mi</button></a></li>
-                <li><a href="#projects"><button class="btn">Proyectos</button></a></li>
-                <li><a href="#education"><button class="btn">Formación</button></a></li>
-            </ul>
-        </nav>
-    </header>
+### Hi 👋
 
-<section id="about">
-        <div class="wrapper">
-            <a href="https://github.com/Keurydl" class="icon"><i class="fa-brands fa-github"></i></a>
-            <a href="https://www.linkedin.com/in/keury-david-deschamps-lopez-3891181b1/" class="icon"><i class="fa-brands fa-linkedin-in"></i></a>
-            <a href="mailto:keury.david@gmail.com" class="icon"><i class="fa-solid fa-envelope"></i></a> 
-        </div>
-         <div class="loader"></div><br>
-        <h2>Sobre mí</h2>
-        <p>
-        Soy un Desarrollador de sofware con conocimientos en diferentes tecnologías.
-        Algunos de esos conocimientos son:C# .NET,Java,Python,HTML,CSS y bases de datos en Oracle.
-        Mi objetivo es seguir aprendiendo y mejorando constatemente mis habilidades en el desarrolo de aplicacions y resolucion de problemas.
-        </p>
+<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
 
-  <h2>Tecnologías:</h2>
-<div class="tecnologias">
-    <img src="c:\Users\keury\Desktop\Uni\Portafolio\lenguaje-de-programacion-c.jpg" alt="C#" class="tech-image">
-    <img src="c:\Users\keury\Desktop\Uni\Portafolio\html.png" alt="html" class="tech-image">
-    <img src="c:\Users\keury\Desktop\Uni\Portafolio\CSS-Logo.jpg" alt="CSS" class="tech-image">
-    <img src="c:\Users\keury\Desktop\Uni\Portafolio\J.S.png" alt="JS" class="tech-image">
-    <img src="c:\Users\keury\Desktop\Uni\Portafolio\java.jpg" alt="Java" class="tech-image">
-</div>
-  </section>
-    <section id="projects">
-        <h2>Proyectos</h2>
-        <div class="project">
-            <h3>Proyecto 1</h3>
-            <div class="project-content">
-                <img src="c:\Users\keury\Desktop\Uni\Portafolio\Captura de pantalla .png" alt="Captura-1" class="project-image">
-                <p>Un proyecto realizado en C#</p>
-            </div>
-            <div class="wrapper">
-                <a href="https://github.com/Keurydl/Programa-C" class="icon"><i class="fa-brands fa-github"></i></a>
-            </div>
-        </div>
-        <div class="project">
-            <h3>Proyecto 2</h3>
-            <div class="proyect-content"></div>
-            <img src="Captura de pantalla 2.png" alt="Captura-2" class="project-image">
-            <p>Creacion de Crud para un negocio Canino.</p>  
-            <div class="wrapper">
-                <a href="https://github.com/Keurydl/CrudCanina" class="icon"><i class="fa-brands fa-github"></i></a>
-            </div>
-        </div>
-    </div>
-    </section>
-    <section id="education" class="education-section">
-        <h2>Formación</h2>
-        <div class="education-timeline">
-          <div class="education-item">
-            <h3>Colegio Episcopal La Aunciación</h3>
-            <span class="education-date">2022 - 2023</span>
-            <p>Graduado en 6to Secundaria.</p>
-            <img src="images.jpg" alt="Logo" class="project-image">
-            <img src="Merito.jpg" alt="Recno" class="small-image">
-          </div>
-          <div class="education-item">
-            <h3>Estudiando Aplicaciones Multiplataformas</h3>
-            <span class="education-date">2023 - 2025</span>
-            <p>Pontificia Universidad Catolica Madre Y Maestro.(Pucmm)</p><br>
-            <p>El centro de tecnologia y Educacion Permanente.(Tep)</p><br>
-            <img src="images 2.jpg" alt="Logo-2" class="circle-image">
-            <img src="Logo-pucmm.jpg" alt="Logo-3" class="circle-image">
-          </div>
-        </div>
-      </section>
+<h3> Sobre Mi: </h3>
+
+-  🧑‍💻 :Soy un Desarrollador de sofware con conocimientos en diferentes tecnologías. Algunos de esos conocimientos son:C# .NET,Java,Python,HTML,CSS y bases de datos en Oracle. Mi objetivo es seguir aprendiendo y mejorando constatemente mis habilidades en el desarrolo de aplicacions y resolucion de problemas. 
+	
+
+<p>Connect with me on:
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/keury-david-deschamps-lopez-3891181b1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:keury.david@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+     
+<br>
+ 
+
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="left"> 
+  
+
+  <a href="https://dart.dev/">
+    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  </a>
+&emsp;
+<a href="https://python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  </a>
+  &emsp;
+<a href="https://www.java.com/en/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+
+
+</p>
+
+### 👉 Frameworks
+<p align="left"> 
+&emsp;
+  <a href="https://flutter.dev/" target="_blank"> 
+     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+   </a>
+  &emsp; 
+  <a href="https://www.tensorflow.org/" target="_blank"> 
+   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://keras.io/" target="_blank"> 
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  </a>
+</p>
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  &emsp;
+<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+ </p>
+
+ ### 👉 Software & Tools
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+&emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+     &emsp;
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+     &emsp;
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
+    &emsp;
+     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+    &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
+    &emsp;
+    
+</p>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
+
+
+<br/>
+
+------
+Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
+Last Edited on: 08/09/2021
 
 <!--
 **Keurydl/Keurydl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
