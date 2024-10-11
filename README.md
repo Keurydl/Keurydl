@@ -6,7 +6,7 @@
 -  🧑‍💻 :Soy un Desarrollador de sofware con conocimientos en diferentes tecnologías. Algunos de esos conocimientos son:C# .NET,Java,Python,HTML,CSS y bases de datos en Oracle. Mi objetivo es seguir aprendiendo y mejorando constatemente mis habilidades en el desarrolo de aplicacions y resolucion de problemas. 
 	
 
-<p>Connect with me on:
+## 📱Connect with me on:
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/keury-david-deschamps-lopez-3891181b1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
