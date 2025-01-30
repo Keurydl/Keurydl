@@ -98,12 +98,23 @@
   &emsp;
 </p>
 
-  ### 👉CV:
+  ### 👉CV & Certificates:
  <a href="https://drive.google.com/file/d/1SpwFNSe7ipv7b_Q_jYPVqA6WuVE5o73Y/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"
       alt="Drive"/>
   </a>
     &emsp;
+    
+<a href="https://www.freecodecamp.org/espanol/certification/fcca87e50e3-e039-4da0-a97f-d2050c4444b3/responsive-web-design" target="_blank">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-4C1F24.svg?style=for-the-badge&logo=freecodecamp&logoColor=white" 
+      alt="FreeCodeCamp"/> 
+</a>
+
+<a href="https://www.freecodecamp.org/espanol/certification/fcca87e50e3-e039-4da0-a97f-d2050c4444b3/front-end-development-libraries" target="_blank">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-4C1F24.svg?style=for-the-badge&logo=freecodecamp&logoColor=white" 
+      alt="FreeCodeCamp"/> 
+</a>
+
 
 
   ## 👇Projects
