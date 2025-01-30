@@ -75,13 +75,12 @@
 </a>
 
 
-### 👉 Databases & Cloud Hosting
+### 👉 Databases 
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
+
  </p>
 
  ### 👉 Software 
@@ -91,6 +90,9 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  &emsp;
+</p>
 
   ### 👉CV:
  <a href="https://drive.google.com/file/d/1SpwFNSe7ipv7b_Q_jYPVqA6WuVE5o73Y/view?usp=drive_link" target="_blank">
