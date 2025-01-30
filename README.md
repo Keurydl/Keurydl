@@ -69,6 +69,11 @@
       alt="PHP"/> 
 </a>
 
+<a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" 
+      alt="MongoDB"/> 
+</a>
+
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
