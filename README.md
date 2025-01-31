@@ -8,7 +8,7 @@
 
 
 
--  🧑‍💻 :I am a software developer with knowledge of different technologies. Some of that knowledge is: C#, Java, Python, HTML, CSS,Javascript and databases. My goal is to continue learning and constantly improving my skills in application development and problem solving.
+-  🧑‍💻 :I am a software developer with knowledge of different technologies. Some of that knowledge is: C, Java, Python, HTML, CSS,Javascript and databases. My goal is to continue learning and constantly improving my skills in application development and problem solving.
 	
 
 ## 📱Connect with me on:
@@ -41,9 +41,11 @@
 	  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> 
 	  
 </a> 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" 
+      alt="C Programming Language"/> 
 </a>
+
 
 <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
