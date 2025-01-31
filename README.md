@@ -8,7 +8,7 @@
 
 
 
--  🧑‍💻 :I am a software developer with knowledge of different technologies. Some of that knowledge is: C# .NET, Java, Python, HTML, CSS and databases. My goal is to continue learning and constantly improving my skills in application development and problem solving.
+-  🧑‍💻 :I am a software developer with knowledge of different technologies. Some of that knowledge is: C#, Java, Python, HTML, CSS,Javascript and databases. My goal is to continue learning and constantly improving my skills in application development and problem solving.
 	
 
 ## 📱Connect with me on:
