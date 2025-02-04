@@ -155,7 +155,7 @@
 
 Si deseas ponerte en contacto conmigo, puedes enviarme un correo electrónico a:
 
-[keurydd@outlook.com](mailto:keurydd@outlook.com)
+[keurydd@outlook.com](keurydd@outlook.com)
 
 
 <!--
