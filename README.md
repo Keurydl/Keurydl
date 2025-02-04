@@ -6,8 +6,6 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px></picture><br>
 
 
-
-
 -  🧑‍💻 :I am a software developer with knowledge of different technologies. Some of that knowledge is: C, Java, Python, HTML, CSS,Javascript and databases. My goal is to continue learning and constantly improving my skills in application development and problem solving.
 	
 
@@ -160,6 +158,7 @@
 Si deseas ponerte en contacto conmigo, puedes enviarme un correo electrónico a:
 
 [keurydd@outlook.com](keurydd@outlook.com)
+
 
 
 <!--
