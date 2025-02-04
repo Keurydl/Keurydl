@@ -151,6 +151,12 @@
 ### Lenguajes de programación
 ![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=Keurydl&layout=compact&theme=radical)
 
+## 📧 Correo
+
+Si deseas ponerte en contacto conmigo, puedes enviarme un correo electrónico a:
+
+[keurydd@outlook.com](mailto:keurydd@outlook.com)
+
 
 <!--
 **Keurydl/Keurydl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
