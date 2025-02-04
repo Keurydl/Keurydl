@@ -144,6 +144,13 @@
 <a href="https://github.com/Keurydl/bateria_electronica" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
+## 📊 Mis estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Keurydl&show_icons=true&theme=radical)
+
+### Lenguajes de programación
+![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=Keurydl&layout=compact&theme=radical)
+
 
 <!--
 **Keurydl/Keurydl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
