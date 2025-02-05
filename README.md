@@ -146,16 +146,16 @@
 <a href="https://github.com/Keurydl/bateria_electronica" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
-## 📊 Mis estadísticas de GitHub
+## 📊 My GitHub statistics
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Keurydl&show_icons=true&theme=radical)
 
-### Lenguajes de programación
+### Programming languages
 ![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=Keurydl&layout=compact&theme=radical)
 
-## 📧 Correo
+## 📧 Mail
 > [!IMPORTANT]
->Si deseas ponerte en contacto conmigo, puedes enviarme un correo electrónico a:
+>If you want to contact me, you can send me an email at:
 
 [keurydd@outlook.com](keurydd@outlook.com)
 
