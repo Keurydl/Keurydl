@@ -154,8 +154,8 @@
 ![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=Keurydl&layout=compact&theme=radical)
 
 ## 📧 Correo
-
-Si deseas ponerte en contacto conmigo, puedes enviarme un correo electrónico a:
+> [!IMPORTANT]
+>Si deseas ponerte en contacto conmigo, puedes enviarme un correo electrónico a:
 
 [keurydd@outlook.com](keurydd@outlook.com)
 
