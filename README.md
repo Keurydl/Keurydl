@@ -55,7 +55,6 @@
   </a>
 </p>
 
-
 ### 👉 Learning
 
 <a href="https://www.php.net/" target="_blank">
@@ -71,7 +70,6 @@
     <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" 
       alt="React"/> 
 </a>
-
 
 ### 👉 Databases 
 <p align="left">
@@ -121,8 +119,6 @@
     <img src="https://img.shields.io/badge/FreeCodeCamp-4C1F24.svg?style=for-the-badge&logo=freecodecamp&logoColor=white" 
       alt="FreeCodeCamp"/> 
 </a>
-
-
 
   ## 👇Projects
 
