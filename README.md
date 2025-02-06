@@ -5,9 +5,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px></picture><br>
 
-
--  🧑‍💻 :I am a software developer with knowledge of different technologies. Some of that knowledge is: C, Java, Python, HTML, CSS,Javascript and databases. My goal is to continue learning and constantly improving my skills in application development and problem solving.
-	
+-  🧑‍💻 :I am a software developer with knowledge of different technologies. Some of that knowledge is: C, Java, Python, HTML, CSS,Javascript and databases. My goal is to continue learning and constantly improving my skills in application development and problem solving.	
 
 ## 📱Connect with me on:
 <br>	
@@ -21,16 +19,12 @@
 
      
 <br>
- 
-
 
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
 
 <p align="left"> 
-  
-
 
 <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
