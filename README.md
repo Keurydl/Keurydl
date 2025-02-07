@@ -16,8 +16,7 @@
 &emsp;
 <a href="https://github.com/Keurydl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-     
+   
 <br>
 
 ## 🛠️ My Skills
@@ -140,7 +139,7 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Keurydl&show_icons=true&theme=radical)
 
-### Programming languages
+### Programming languages💻
 ![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=Keurydl&layout=compact&theme=radical)
 
 ## 📧 Mail
