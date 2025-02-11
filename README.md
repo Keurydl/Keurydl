@@ -144,7 +144,7 @@
 > [!IMPORTANT]
 >If you want to contact me, you can send me an email at:
 
-[keurydd@outlook.com](keurydd@outlook.com)
+🔺[keurydd@outlook.com](keurydd@outlook.com)🔻
 
 
 
