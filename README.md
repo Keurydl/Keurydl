@@ -20,7 +20,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Languages ​​used
 
 <p align="left"> 
 
