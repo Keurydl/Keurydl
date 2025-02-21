@@ -97,7 +97,7 @@
 </p>
 
   ### 👉CV & Certificates:
- <a href="https://drive.google.com/file/d/1SpwFNSe7ipv7b_Q_jYPVqA6WuVE5o73Y/view?usp=drive_link" target="_blank">
+ <a href="https://drive.google.com/file/d/1xCguzyKjO-7KOZIEZ4x4G14JdWsDAUeg/view?usp=sharing">
     <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"
       alt="Drive"/>
   </a>
