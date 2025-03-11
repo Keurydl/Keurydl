@@ -62,10 +62,16 @@
       alt="PHP"/> 
 </a>
 
+<a href="https://laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" 
+      alt="Laravel"/> 
+</a>
+
 <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" 
       alt="MongoDB"/> 
 </a>
+
 <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" 
       alt="React"/> 
