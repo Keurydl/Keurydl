@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Keury 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5BE9F7&background=FF774000&width=435&lines=Hey+there%F0%9F%91%8B%2CWelcome+to+my+Github+" alt="Typing SVG" /></a>
-
+ 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me:
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px></picture><br>
 
