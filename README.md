@@ -4,8 +4,8 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me:
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px></picture><br>
 
--  🧑‍💻 :I am a software developer with knowledge of different technologies. Some of that knowledge is: C, Java, Python, HTML, CSS,Javascript and databases. My goal is to continue learning and constantly improving my skills in application development and problem solving.	
-
+-  🧑‍💻 :I am a software developer with knowledge of different technologies. Some of that knowledge is: C, Java, Python, HTML, CSS,Javascript and databases. My goal is to continue learning and constantly improving my skills in application development and problem solving.
+  
 ## 📱Connect with me on:
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/keury-david-deschamps-lopez-3891181b1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
