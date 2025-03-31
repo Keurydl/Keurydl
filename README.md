@@ -77,7 +77,7 @@
       alt="React"/> 
 </a>
 
-### 👉 Databases 
+### 👉 Databases: 
 
 <p align="left">
   &emsp;
