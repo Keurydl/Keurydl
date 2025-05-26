@@ -38,7 +38,6 @@
       alt="C Programming Language"/> 
 </a>
 
-
 <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -55,21 +54,32 @@
   </a>
 </p>
 
-### 👉 Learning
-
 <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" 
       alt="PHP"/> 
 </a>
 
+### 👉 Learning
+<a href="https://dart.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" 
+      alt="Dart"/> 
+</a>
+
+<a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" 
+      alt="Flutter"/> 
+</a>
+
+<a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" 
+      alt="Android Studio"/> 
+</a>
+
+### 👉 Framework: 
+
 <a href="https://laravel.com/" target="_blank">
     <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" 
       alt="Laravel"/> 
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" 
-      alt="MongoDB"/> 
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
@@ -88,6 +98,12 @@
     <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" 
       alt="PostgreSQL"/> 
 </a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" 
+      alt="MongoDB"/> 
+</a>
+
  </p>
 
  ### 👉 Software 
