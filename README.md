@@ -142,10 +142,10 @@
       alt="FreeCodeCamp"/> 
 </a>
 
-  ## 👇Projects
+  ## 👇Projects to highlight:
 
 ### 👉1:
-<a href="https://github.com/Keurydl/Programa-C" target="_blank">
+<a href="https://github.com/Keurydl/sistema_pedidos" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 
