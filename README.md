@@ -171,10 +171,7 @@
 >If you want to contact me, you can send me an email at:
 
 🔺[keurydd@outlook.com](keurydd@outlook.com)🔻
- 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Keurydl/count.svg?" />
-</div>
+
 
 <!--
 **Keurydl/Keurydl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
