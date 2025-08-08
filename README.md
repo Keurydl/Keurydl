@@ -4,7 +4,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me:
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px></picture><br>
 
--  🧑‍💻 :I am a software developer with knowledge of different technologies. Some of that knowledge is: C, Java, Python, HTML, CSS,Javascript and databases. My goal is to continue learning and constantly improving my skills in application development and problem solving.
+-  🧑‍💻 :I am a software developer with knowledge of different technologies. Some of that knowledge is: Java, Python, HTML, CSS,Javascript and databases. My goal is to continue learning and constantly improving my skills in application development and problem solving.
   
 ## 📱Connect with me on:
 <br>	
@@ -64,15 +64,6 @@
       alt="Dart"/> 
 </a>
 
-<a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" 
-      alt="Flutter"/> 
-</a>
-
-<a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" 
-      alt="Android Studio"/> 
-</a>
 
 ### 👉 Learning
 
@@ -91,6 +82,11 @@
 <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" 
       alt="React"/> 
+</a>
+
+<a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" 
+      alt="Flutter"/> 
 </a>
 
 ### 👉 Databases: 
@@ -124,6 +120,10 @@
 	<a href="https://www.wampserver.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/WampServer-FF6600.svg?style=for-the-badge&logo=apache&logoColor=white"
       alt="WampServer"/> 
+</a>
+	<a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" 
+      alt="Android Studio"/> 
 </a>
 </p>
 
