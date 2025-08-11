@@ -128,7 +128,7 @@
 </p>
 
   ### 👉CV & Certificates:
- <a href="https://drive.google.com/drive/u/0/home">
+ <a href="https://docs.google.com/document/d/1Ru4f_WnqAWpwgRZa6JU-E5fP_yw8qioVlMmjzCqvSJA/edit?usp=drive_link">
     <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"
       alt="Drive"/>
   </a>
