@@ -18,7 +18,9 @@
 <br>
 
 ## 👇 My Portfolio
-[![Portfolio](https://portafolio-keurydl-12f545.netlify.app/)
+<a href="https://portafolio-keurydl-12f545.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+</a>
 
 ## 🛠️ My Skills: 
 
