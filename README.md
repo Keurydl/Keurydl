@@ -130,6 +130,7 @@
 </p>
 
   ### 👉CV & Certificates:
+  [![Download CV](https://img.shields.io/badge/PDF-CV-%230B5394?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1xCguzyKjO-7KOZIEZ4x4G14JdWsDAUeg/view?usp=sharing)
  <a href="https://drive.google.com/file/d/1xCguzyKjO-7KOZIEZ4x4G14JdWsDAUeg/view?usp=sharing">
     <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"
       alt="Drive"/>
@@ -149,6 +150,7 @@
     <img src="https://img.shields.io/badge/FreeCodeCamp-4C1F24.svg?style=for-the-badge&logo=freecodecamp&logoColor=white" 
       alt="FreeCodeCamp"/> 
 </a>
+
 
   ## 👇Projects to highlight:
 
