@@ -74,6 +74,10 @@
       alt="C#"/> 
 </a>
 
+<a href="https://angular.io" target="_blank" class="inline-block">
+  <img src="https://img.shields.io/badge/Angular-239120?style=for-the-badge&logo=angular&logoColor=white" alt="Angular logo">
+</a>
+
 ### 👉 Framework: 
 
 <a href="https://laravel.com/" target="_blank">
