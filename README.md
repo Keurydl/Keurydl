@@ -135,8 +135,10 @@
 </p>
 
   ### 👉CV & Certificates:
-  [![Download CV](https://img.shields.io/badge/PDF-CV-%230B5394?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1xCguzyKjO-7KOZIEZ4x4G14JdWsDAUeg/view?usp=sharing)
-    
+[![CV Español](https://img.shields.io/badge/CV-Español-0B5394?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1xCguzyKjO-7KOZIEZ4x4G14JdWsDAUeg/view?usp=sharing)
+
+[![CV English](https://img.shields.io/badge/CV-English-CC0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1tZ1Oph4O0p5LCHPa0AXanvO6Fk4g5TSg/view?usp=sharing)</code></pre>
+
 <a href="https://www.freecodecamp.org/espanol/certification/fcca87e50e3-e039-4da0-a97f-d2050c4444b3/responsive-web-design" target="_blank">
     <img src="https://img.shields.io/badge/FreeCodeCamp-4C1F24.svg?style=for-the-badge&logo=freecodecamp&logoColor=white" 
       alt="FreeCodeCamp"/> 
