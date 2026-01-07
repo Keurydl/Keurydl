@@ -134,7 +134,7 @@
 </a>
 </p>
 
-  ### 👉CV & Certificates:
+  ### 👉🏅CV & Certificates:
 [![CV Español](https://img.shields.io/badge/CV-Español-0B5394?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1xCguzyKjO-7KOZIEZ4x4G14JdWsDAUeg/view?usp=sharing)
 
 [![CV English](https://img.shields.io/badge/CV-English-CC0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1tZ1Oph4O0p5LCHPa0AXanvO6Fk4g5TSg/view?usp=sharing)</code></pre>
@@ -154,36 +154,28 @@
 </a>
 
 
-  ## 👇Projects to highlight:
+## 🚀 Featured Projects
 
-### 👉1:
-<a href="https://github.com/Keurydl/sistema_pedidos" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+### 👉1. Sistema de Pedidos
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keurydl/sistema_pedidos)
+**Description:** Complete order management system with a Laravel backend and a React frontend.
+**Technologies:** `Laravel` `React` `MySQL` `Bootstrap`
 
+### 👉2. Web de Matemáticas
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keurydl/web_mathematics)
+**Description:** Educational platform with interactive math exercises.
+**Technologies:** `JavaScript` `HTML5` `CSS3` `Python`
 
-### 👉2:
-<a href="https://github.com/Keurydl/web_mathematics" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-
-### 👉3:
-<a href="https://github.com/Keurydl/app_videogames" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-## 📊 My GitHub statistics
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Keurydl&show_icons=true&theme=radical)
-
-### 💻Programming languages
-![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=Keurydl&layout=compact&theme=radical)
-
+### 👉3. App de Videojuegos
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keurydl/app_videogames)
+**Description:** Mobile application for video game catalog and reviews.
+**Technologies:** `Flutter` `Dart` `Firebase` `REST API`
 
 ## 📧 Mail
 > [!IMPORTANT]
 >If you want to contact me, you can send me an email at:
 
 🔺[keurydd@outlook.com](keurydd@outlook.com)🔻
-
 
 <!--
 **Keurydl/Keurydl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
