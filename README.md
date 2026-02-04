@@ -152,10 +152,6 @@
     <img src="https://img.shields.io/badge/FreeCodeCamp-4C1F24.svg?style=for-the-badge&logo=freecodecamp&logoColor=white" 
       alt="FreeCodeCamp"/> 
 </a>
-<a href="https://drive.google.com/file/d/15HCgDslFFD1HrW78Jig2P6KDYdQ3KqLm/view" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Drive-4285F4.svg?style=for-the-badge&logo=google-drive&logoColor=white" 
-      alt="Google Drive"/>
-</a>
 
 
 ## 🚀 Featured Projects
