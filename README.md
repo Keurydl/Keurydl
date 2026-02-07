@@ -151,8 +151,9 @@
 <a href="https://www.freecodecamp.org/certification/fcca87e50e3-e039-4da0-a97f-d2050c4444b3/javascript-algorithms-and-data-structures-v8" target="_blank">
     <img src="https://img.shields.io/badge/FreeCodeCamp-4C1F24.svg?style=for-the-badge&logo=freecodecamp&logoColor=white" 
       alt="FreeCodeCamp"/> 
-</a>
 
+[![PUCMM](https://img.shields.io/badge/PUCMM-Higher%20Technician%20in%20Cross--Platform%20App%20Development-blue?style=for-the-badge&logo=google-play)](https://drive.google.com/file/d/1yWMBb0LobGhy4V3ZTn6_nuZhRY3OXwot/view?usp=sharing)
+[![English Proficiency](https://img.shields.io/badge/English-Junior%20%26%20TTC%20Certified-orange?style=for-the-badge&logo=google-translate)](https://drive.google.com/file/d/15sfC2Rg0Rom6j4efTm1yhA7iBDQa1oPL/view?usp=sharing)
 
 ## 🚀 Featured Projects
 
