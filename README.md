@@ -135,7 +135,7 @@
 </p>
 
   ### 👉🏅CV & Certificates:
-[![CV Español](https://img.shields.io/badge/CV-Español-0B5394?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1xCguzyKjO-7KOZIEZ4x4G14JdWsDAUeg/view?usp=sharing)
+[![CV Español](https://img.shields.io/badge/CV-Español-0B5394?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1xeNtMRjaLW852CpAHyENF3Kys84Sw9oO/view?usp=sharing)
 
 [![CV English](https://img.shields.io/badge/CV-English-CC0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1tZ1Oph4O0p5LCHPa0AXanvO6Fk4g5TSg/view?usp=sharing)</code></pre>
 
