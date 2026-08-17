@@ -28,11 +28,11 @@
 </a>
 <a href="https://drive.google.com/file/d/1hNlBVq-bKBaiiQMF9ykQGu7rBixnol1G/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Descargar_APK-32DE84.svg?style=for-the-badge&logo=android&logoColor=white" 
-         alt="Descargar APK desde Google Drive"/>
+         alt="Download APK from Google Drive"/>
 </a>
 <a href="https://github.com/Keurydl/portafolio_app/releases/tag/v1.0.0" target="_blank">
     <img src="https://img.shields.io/badge/Descargar_APK-181717.svg?style=for-the-badge&logo=github&logoColor=white" 
-         alt="Descargar APK desde GitHub"/>
+         alt="Download APK from GitHub"/>
 </a>
 
 ## 🛠️ My Skills: 
