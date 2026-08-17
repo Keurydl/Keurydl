@@ -82,10 +82,9 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" 
       alt="C#"/> 
 </a>
-
-<a href="https://angular.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" 
-      alt="Angular"/> 
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" 
+       alt="Linux"/>
 </a>
 
 ### 👉 Framework: 
