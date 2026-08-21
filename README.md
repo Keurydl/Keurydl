@@ -175,10 +175,11 @@
 **Description:** Educational platform with interactive math exercises.
 **Technologies:** `JavaScript` `HTML5` `CSS3` `Python`
 
-### 👉3. App de Videojuegos
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keurydl/app_videogames)
-**Description:** Mobile application for video game catalog and reviews.
-**Technologies:** `Flutter` `Dart` `Firebase` `REST API`
+### 👉3. Web Red Dead Redemption II
+[![REPOSITORY](https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keurydl/web_red_dead_redemption_II) [![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://red-dead-redemption-ii.vercel.app/)
+
+**Description:** Thematic and interactive landing page based on the universe of Red Dead Redemption II, developed with advanced animations and an immersive design.
+**Technologies:** `Astro` `JavaScript` `CSS3` `GSAP` `HTML5`
 
 ## 📧 Mail
 > [!IMPORTANT]
