@@ -165,12 +165,12 @@
 
 ## 🚀 Featured Projects
 
-### 👉1. Sistema de Pedidos
+### 👉1. Ordering System
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keurydl/sistema_pedidos)
 **Description:** Complete order management system with a Laravel backend and a React frontend.
 **Technologies:** `Laravel` `React` `MySQL` `Bootstrap`
 
-### 👉2. Web de Matemáticas
+### 👉2. Mathematics Website
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keurydl/web_mathematics)
 **Description:** Educational platform with interactive math exercises.
 **Technologies:** `JavaScript` `HTML5` `CSS3` `Python`
