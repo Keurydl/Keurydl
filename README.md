@@ -87,9 +87,6 @@
        alt="Linux"/>
 </a>
 
-![O&M](https://custom-icon-badges.demolab.com/badge/O%26M-O%26M-00599C?style=flat-square&logo=escudo-om-1966)
-
-
 ### 👉 Framework: 
 
 <a href="https://laravel.com/" target="_blank">
@@ -199,6 +196,10 @@
 >If you want to contact me, you can send me an email at:
 
 🔺[keurydd@outlook.com](keurydd@outlook.com)🔻
+
+### 📚 Studying:
+
+![O&M](https://custom-icon-badges.demolab.com/badge/O%26M-O%26M-00599C?style=flat-square&logo=escudo-om-1966)
 
 <!--
 **Keurydl/Keurydl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
