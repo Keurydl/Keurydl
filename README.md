@@ -87,6 +87,9 @@
        alt="Linux"/>
 </a>
 
+![O&M](https://custom-icon-badges.demolab.com/badge/O%26M-O%26M-00599C?style=flat-square&logo=escudo-om-1966)
+
+
 ### 👉 Framework: 
 
 <a href="https://laravel.com/" target="_blank">
